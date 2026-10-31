@@ -1,13 +1,9 @@
 <!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/catachresis-colloquium/.github/main/profile/assets/hero.png">
-  <img src="https://raw.githubusercontent.com/catachresis-colloquium/.github/main/profile/assets/hero.gif" alt="Catachresis Colloquium: an impossible staircase unfolds around a glowing doorway. We thought you might try that." width="1200">
+  <source media="(prefers-reduced-motion: reduce)" srcset="">
+  <img src="" alt="Catachresis Colloquium: an impossible staircase unfolds around a glowing doorway. We thought you might try that." width="1200">
 </picture>
-
-# Catachresis Colloquium
-
-**We thought you might try that…**
 
 An independent studio making computer games, tabletop games, roleplaying experiences and simulations.
 
