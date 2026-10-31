@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="">
-  <img src="" alt="Catachresis Colloquium: an impossible staircase unfolds around a glowing doorway. We thought you might try that." width="1200">
+  <img src="https://github.com/catachresis-colloquium/.github/blob/main/profile/assets/hero.png" alt="Catachresis Colloquium: an impossible staircase unfolds around a glowing doorway. We thought you might try that." width="1200">
 </picture>
 
 An independent studio making computer games, tabletop games, roleplaying experiences and simulations.
